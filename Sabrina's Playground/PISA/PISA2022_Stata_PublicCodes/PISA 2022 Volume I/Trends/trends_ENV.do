@@ -1,0 +1,6 @@
+adopath ++ "c:\temp\statamacros"
+global sandbox "c:\temp\sandbox\Volume I"
+global outfile "c:\temp\results\Trends\outfile"
+global export "c:\temp\results\Trends\export"
+global linkerrors "c:\temp\results\Trends\linkerrors"
+global infile "c:\temp\results\Trends\infile"
