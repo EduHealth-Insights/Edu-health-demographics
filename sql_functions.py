@@ -30,7 +30,7 @@ def get_engine():
 
 
 def push_to_cloud(dataframe, name):
-    schema = 'group3'
+    schema = 'hh_analytics_24_1'
     table_name = name
 
     engine = get_engine()
@@ -49,8 +49,8 @@ def push_to_cloud(dataframe, name):
         except (Exception, psycopg2.DatabaseError) as error:
             print(error)
             engine = None
-        else:
-            print('No engine')
+    else:
+        print('No engine')
 
 
 
