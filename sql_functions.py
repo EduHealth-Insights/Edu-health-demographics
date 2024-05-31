@@ -30,7 +30,7 @@ def get_engine():
 
 
 def push_to_cloud(dataframe, name):
-    schema = 'hh_analytics_24_1'
+    schema = 'capstone_health_education'
     table_name = name
 
     engine = get_engine()
