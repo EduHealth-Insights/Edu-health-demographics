@@ -8,8 +8,7 @@ def columns_lower_snake_case(dataframes):
 
         print(df.columns)
         print('-' * 30)
-    return dataframes
-
+    return df
 
 def columns_lower_snake_case_2(dataframes):
     for df in dataframes:
