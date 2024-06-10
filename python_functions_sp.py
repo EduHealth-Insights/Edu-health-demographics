@@ -175,3 +175,8 @@ def pivot_df(df, columns='indicator', index=['country', 'year'], values='value')
     return df_pivoted
 
 
+# change year column into date format
+def year_to_int(df):
+    df['year'] = pd.to_datetime(df['year'], format='%Y')
+    df['year'] = df['year'].dt.year
+    return df
