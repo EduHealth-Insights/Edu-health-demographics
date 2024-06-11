@@ -26,6 +26,11 @@ def columns_lower_snake_case_3(dataframes):
         df.columns = df.columns.str.replace(':', '')
     return df
 
+def columns_lower_snake_case_4(df):
+    df.columns = df.columns.str.lower()
+    df.columns = df.columns.str.replace(' ', '_')
+    df.columns = df.columns.str.replace('*', '')
+    return df
 
 
 # Separating the countries into the continents:
