@@ -10,7 +10,9 @@ We searched different datasets from:
 
 Exploratory data analysis was conducted on the datasets and countries of all datasets were grouped into the four European regions. 
 
-The final merged dataset used for our in-depth analyses includes data from HFA-DB, GHED, PISA and SYB66. Differences across European regions were found for life extectancy, edcuation, income and governemental spending. The results showed significant correlations between life expectancy, education (school enrollment, school performance), gross national income as well as governmental spending on health and education. To foster equity, governments should make spending on education and health a national priority, education for all as well as a minimum income to cover health and education costs should be guaranteed.
+The final merged dataset used for our in-depth analyses includes data from HFA-DB, GHED, PISA and SYB66. Differences across European regions were found for life expectancy, education, income and governemental spending. The results showed significant correlations between life expectancy, education (school enrollment, school performance), gross national income as well as governmental spending on health and education. To foster equity, governments should make spending on education and health a national priority, education for all as well as a minimum income to cover health and education costs should be guaranteed.
+
+![one_scream_2](https://github.com/EduHealth-Insights/Edu-health-demographics/assets/160042513/b426e862-e65f-4412-bb33-68c98d6bef3c)
 
 ---
 
