@@ -160,8 +160,12 @@ cython_debug/
 #.idea/
 
 Sabrinas_Playground/
-data/
+# data/
 
-.DS_Store
-tableau/
+**/.DS_Store
 
+# tableau/
+
+presentation/
+
+data/HBSC2018OAed1.csv
